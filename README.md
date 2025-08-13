@@ -1,7 +1,7 @@
 
 # 🔍 OpenCV DNN Image Classifier
 
-![Banner](banner.png)
+![Banner](banner.PNG)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-blueviolet?logo=opencv)](https://opencv.org/)
